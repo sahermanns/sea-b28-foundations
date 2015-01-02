@@ -8,5 +8,5 @@ LinkedIn: [Hsia-Chou Lin](https://www.linkedin.com/pub/hsia-chou-lin/ab/573/565?
 
 This is a photo of me:
 
-![A photo of me, hope this works](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/0aa/22d/3fc1d52.jpg)
+![A photo of me!](https://media.licdn.com/mpr/mpr/shrink_200_200/p/5/005/0aa/22d/3fc1d52.jpg)
 
