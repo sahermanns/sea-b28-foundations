@@ -5,11 +5,11 @@ Hi guys, I seem to be struggling with trying to get a pull request and I keep ha
 
 # GitHub
 
-My GitHub account is chamjinislro
+My GitHub account is [callumsong](http://github.com/callumsong)
 
 # Twitter
 
-My twitter is @foolishungry19
+My twitter is [@foolishungry19](http://twitter.com/FoolisHungry19)
 
 # Interests
 
